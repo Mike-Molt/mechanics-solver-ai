@@ -6,7 +6,7 @@ A mobile app that solves Engineering Mechanics problems using AI. Built with Rea
 
 Mechanics Solver AI helps engineering students solve mechanics problems by sending questions to an open-source AI model (Qwen3-235B) via Hugging Face's inference API. The AI has been shown to be correct 93% of the time on statics problems.
 You can view and use a website implementation of this app at: [Statics and Mechanics Solver AI](https://sites.google.com/view/staticssolverai). If you like it this repo allows you to build and deploy it on your own personal device.
-From time to time you may need to change the provider or model as Hugging Face occasionally deprecates these. Note that if you change models you would then need to verify the model is smart enough to solve these problems (eg see [YouTube Link](https://www.youtube.com/watch?v=SNaTuYVLVXs)).
+From time to time you may need to change the provider or model as Hugging Face occasionally deprecates these. Note that if you change models you would then need to verify the model is smart enough to solve these problems (eg see [YouTube Link](https://www.youtube.com/watch?v=SNaTuYVLVXs)). You can download the dataset from [Hugging Face](https://huggingface.co/datasets/mikemolt/staticsmechanics).
 
 ## Features
 
